@@ -1,0 +1,10 @@
+/**{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}*/
+.img{
+	height: 530px;
+	width: 300px;
+	background-image: url(https://img.freepik.com/premium-vector/taxi-service-badge-taxi-map-pointer-vector-icon-business-advertising-public-transport-design_435184-1169.jpg );
+}

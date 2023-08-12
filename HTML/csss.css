@@ -1,0 +1,23 @@
+.a{
+	background-color: lightpink;
+	height: 400px;
+	width:950px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: centre;
+	margin-top: 200px;
+}
+.b{
+	background-color: whitesmoke;
+	height: 300px;
+	width: 250px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 50px;
+	border-radius: 40px;
+}*/
+.font{
+	font-family: sans-serif;
+	font-weight: 700px;
+	padding: 100px 50px 200px 50px;
+}
